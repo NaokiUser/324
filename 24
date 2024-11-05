@@ -6258,6 +6258,8 @@ Tabs.Misc:AddParagraph({
 	Content = ""
 
 })
+Tabs.Misc:Seperator("Misc")
+
 Tabs.Misc:AddButton({
 	Title = "Devil Shop",
 	Description = "",
